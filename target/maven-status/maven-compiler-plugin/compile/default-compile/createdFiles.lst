@@ -1,0 +1,9 @@
+mock\LibroBean.class
+mock\Evaluador.class
+dbunit\manager\DBUnitProperties.class
+dbunit\manager\DataSetManager.class
+dbunit\manager\DBUnitConnectionManager.class
+junit\JUnitMatcherAsserts.class
+mock\EvaluadorDAO.class
+junit\JUnitAsserts.class
+mock\LibroDAO.class
